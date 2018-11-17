@@ -1,0 +1,1 @@
+|coso|coso:=Rectangulo new.coso base: 4.coso base 

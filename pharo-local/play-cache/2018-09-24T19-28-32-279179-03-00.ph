@@ -1,0 +1,1 @@
+| cociente resto dividendo divisor |dividendo:=(UIManager default request:'ingrese dividendo')asInteger.divisor:=(UIManager default request:'ingrese divisor') asInteger.resto:=0.[ dividendo >= divisor ] whileTrue:[dividendo:= dividendo - divisor. resto:=resto + 1.].Transcript show:'el cociente es', resto  asString,, 'el resto es ', dividendo  asString. 

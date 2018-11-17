@@ -1,0 +1,1 @@
+"|x|x:= Larga new.x masLarga: 'hola comoooo estas'."Larga miren:'hola como estas'.
